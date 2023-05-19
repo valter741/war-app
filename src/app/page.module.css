@@ -127,11 +127,19 @@
 .card3 h2 {
   text-align: center;
   font-weight: 600;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .card3 h4 {
   text-align: center;
   font-weight: 300;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .card3 p {
